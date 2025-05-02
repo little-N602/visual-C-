@@ -1,0 +1,10 @@
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\Word Counter\bin\Debug\Word Counter.exe.config
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\Word Counter\bin\Debug\Word Counter.exe
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\Word Counter\bin\Debug\Word Counter.pdb
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\Word Counter\obj\Debug\Word Counter.csproj.AssemblyReference.cache
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\Word Counter\obj\Debug\Word_Counter.Form1.resources
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\Word Counter\obj\Debug\Word_Counter.Properties.Resources.resources
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\Word Counter\obj\Debug\Word Counter.csproj.GenerateResource.cache
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\Word Counter\obj\Debug\Word Counter.csproj.CoreCompileInputs.cache
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\Word Counter\obj\Debug\Word Counter.exe
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\Word Counter\obj\Debug\Word Counter.pdb
