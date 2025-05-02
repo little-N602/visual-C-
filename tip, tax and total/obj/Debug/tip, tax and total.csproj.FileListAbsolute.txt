@@ -1,0 +1,10 @@
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\tip, tax and total\bin\Debug\tip, tax and total.exe.config
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\tip, tax and total\bin\Debug\tip, tax and total.exe
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\tip, tax and total\bin\Debug\tip, tax and total.pdb
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\tip, tax and total\obj\Debug\tip, tax and total.csproj.AssemblyReference.cache
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\tip, tax and total\obj\Debug\tip__tax_and_total.Form1.resources
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\tip, tax and total\obj\Debug\tip__tax_and_total.Properties.Resources.resources
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\tip, tax and total\obj\Debug\tip, tax and total.csproj.GenerateResource.cache
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\tip, tax and total\obj\Debug\tip, tax and total.csproj.CoreCompileInputs.cache
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\tip, tax and total\obj\Debug\tip, tax and total.exe
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\tip, tax and total\obj\Debug\tip, tax and total.pdb

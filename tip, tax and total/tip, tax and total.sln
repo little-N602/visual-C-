@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tip, tax and total", "tip, tax and total.csproj", "{FB9FDADD-B0A6-4BB9-9446-7D6AB62F1ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB9FDADD-B0A6-4BB9-9446-7D6AB62F1ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9FDADD-B0A6-4BB9-9446-7D6AB62F1ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9FDADD-B0A6-4BB9-9446-7D6AB62F1ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9FDADD-B0A6-4BB9-9446-7D6AB62F1ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AE271C1-B3D2-4DB9-A84D-0D3E84F336E7}
+	EndGlobalSection
+EndGlobal
