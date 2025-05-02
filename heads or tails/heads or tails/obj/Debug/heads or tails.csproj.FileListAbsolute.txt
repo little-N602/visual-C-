@@ -1,0 +1,10 @@
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\heads or tails\heads or tails\bin\Debug\heads or tails.exe.config
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\heads or tails\heads or tails\bin\Debug\heads or tails.exe
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\heads or tails\heads or tails\bin\Debug\heads or tails.pdb
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\heads or tails\heads or tails\obj\Debug\heads or tails.csproj.AssemblyReference.cache
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\heads or tails\heads or tails\obj\Debug\heads_or_tails.heads_or_tails.resources
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\heads or tails\heads or tails\obj\Debug\heads_or_tails.Properties.Resources.resources
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\heads or tails\heads or tails\obj\Debug\heads or tails.csproj.GenerateResource.cache
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\heads or tails\heads or tails\obj\Debug\heads or tails.csproj.CoreCompileInputs.cache
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\heads or tails\heads or tails\obj\Debug\heads or tails.exe
+C:\Users\aveng\OneDrive - Maricopa Community College District\New folder\C#\heads or tails\heads or tails\obj\Debug\heads or tails.pdb
